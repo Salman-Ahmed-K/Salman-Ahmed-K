@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salman Ahmed</h1>
 <h3 align="center">A Front End Alchemist From Galaxy</h3>
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47srvrzvtd5lix3cn5llwaseja3gt4ng4hx2067mq0&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salman-ahmed-k&label=Profile%20views&color=0e75b6&style=flat" alt="salman-ahmed-k" /> </p>
 
