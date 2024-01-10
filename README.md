@@ -1,16 +1,40 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
-<div align="center">
-  <h1 align="center">Hi there, I'm Salman Ahmed! 👋</h1>
-  <p>I'm a passionate Frontend Developer with a knack for crafting captivating user experiences. 
-    My expertise spans across various technologies including HTML, CSS, JavaScript, 
-    React, and Tailwind CSS, ensuring sleek and responsive designs.
+
+  <h2>Hi there, I'm Salman Ahmed! 👋</h2>
+  <p>
+    I'm a passionate Frontend Developer with a knack for crafting captivating user experiences. My expertise spans across various technologies including HTML, CSS, JavaScript, React, and Tailwind CSS, ensuring sleek and responsive designs.
   </p>
-  <h2>What I Do:</h2>
-- **Frontend Excellence:** Leveraging React and Next.js to build dynamic and performant web applications.
-- **Styling Sorcery:** Crafting visually appealing interfaces with CSS, enhanced by the power of Tailwind CSS.
-- **Backend Wizardry:** Proficiency in Node.js, Express, MongoDB, and Mongoose for robust backend development.
-- **TypeScript Enthusiast:** Embracing type safety and scalability with TypeScript in my projects.
-</div>
+
+  <h3>What I Do:</h3>
+  <ul>
+    <li><strong>Frontend Excellence:</strong> Leveraging React and Next.js to build dynamic and performant web applications.</li>
+    <li><strong>Styling Sorcery:</strong> Crafting visually appealing interfaces with CSS, enhanced by the power of Tailwind CSS.</li>
+    <li><strong>Backend Wizardry:</strong> Proficiency in Node.js, Express, MongoDB, and Mongoose for robust backend development.</li>
+    <li><strong>TypeScript Enthusiast:</strong> Embracing type safety and scalability with TypeScript in my projects.</li>
+  </ul>
+
+  <h3>My Arsenal:</h3>
+  <ul>
+    <li>🚀 React | Next.js | Redux</li>
+    <li>🎨 HTML | CSS | Tailwind CSS</li>
+    <li>💻 JavaScript | TypeScript</li>
+    <li>🌐 Node.js | Express | MongoDB | Mongoose</li>
+  </ul>
+
+  <h3>What I'm Up To:</h3>
+  <p>
+    Currently, I'm diving deeper into optimizing frontend performance and exploring the latest trends in web development. I'm always excited about learning and implementing new technologies to create seamless digital experiences.
+  </p>
+
+  <h3>Let's Connect:</h3>
+  <p>
+    🌐 <a href="link-to-your-GitHub-profile">GitHub</a> | 📧 <a href="mailto:youremail@example.com">Email</a> | 🔗 <a href="link-to-your-LinkedIn-profile">LinkedIn</a>
+  </p>
+
+  <p>
+    Feel free to explore my repositories and reach out for collaborations, discussions, or just to geek out over tech!
+  </p>
+
 <img align="center" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47srvrzvtd5lix3cn5llwaseja3gt4ng4hx2067mq0&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salman-ahmed-k&label=Profile%20views&color=0e75b6&style=flat" alt="salman-ahmed-k" /> </p>
