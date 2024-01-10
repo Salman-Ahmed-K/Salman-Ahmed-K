@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋, I'm Salman Ahmed</h1>
 <h3 align="center">A Front End Alchemist From Galaxy</h3>
 <img align="center" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47srvrzvtd5lix3cn5llwaseja3gt4ng4hx2067mq0&ep=v1_gifs_search&rid=giphy.gif&ct=g">
