@@ -28,7 +28,7 @@
 
   <h3>Let's Connect:</h3>
   <p>
-    🌐 <a href="link-to-your-GitHub-profile">GitHub</a> | 📧 <a href="mailto:youremail@example.com">Email</a> | 🔗 <a href="link-to-your-LinkedIn-profile">LinkedIn</a>
+    🌐 <a href="https://github.com/Salman-Ahmed-K">GitHub</a> | 📧 <a href="mailto:salmanafaci270@gmail.com">Email</a> | 🔗 <a href="https://www.linkedin.com/in/salman-ahmed-a546541a5/">LinkedIn</a>
   </p>
 
   <p>
